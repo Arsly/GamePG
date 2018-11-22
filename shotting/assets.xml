@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.25" GSCVersion="1.25.6227">
+  <sounds>
+    <sound name="Gunfire">
+      <file name="Gunfire.ogg" size="5279" />
+    </sound>
+  </sounds>
+  <images>
+    <image name="Background">
+      <file name="Background.png" size="112742" />
+    </image>
+    <image name="Background_Win">
+      <file name="Background_Win.png" size="127708" />
+    </image>
+    <image name="Blood">
+      <file name="Blood.png" size="5757" />
+    </image>
+    <image name="Blood_Background">
+      <file name="Blood_Background.png" size="3136" />
+    </image>
+    <image name="Bullet">
+      <file name="Bullet.png" size="2947" />
+    </image>
+    <image name="Monster_Attacked">
+      <file name="Monster_Attacked.png" size="28042" />
+    </image>
+    <image name="Monster_icon">
+      <file name="Monster_icon.png" size="7723" />
+    </image>
+    <image name="Monster_normal">
+      <file name="Monster_normal.png" size="24336" />
+    </image>
+    <image name="Pistol">
+      <file name="Pistol.png" size="10066" />
+    </image>
+  </images>
+  <fonts />
+  <behaviors />
+</assets>
